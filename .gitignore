@@ -1,0 +1,9 @@
+mlruns/
+mlartifacts/
+notebooks/
+homeworks/week-02/artifacts/
+homeworks/week-02/mlruns/
+homeworks/week-02/mlflow.db
+poetry.toml
+poetry.lock
+mlflow.db
