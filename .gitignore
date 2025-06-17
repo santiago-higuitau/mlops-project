@@ -8,3 +8,9 @@ homeworks/week-02/mlflow.db
 poetry.toml
 poetry.lock
 mlflow.db
+logs
+plugins
+.env
+test
+dags
+week-03/~

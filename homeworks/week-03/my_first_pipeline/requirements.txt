@@ -1,0 +1,4 @@
+pyyaml
+loguru
+mlflow==2.12.1
+scikit-learn
