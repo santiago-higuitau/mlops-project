@@ -14,4 +14,4 @@ plugins
 test
 dags
 week-03/~
-homeworks/week-04/results.parquet
+homeworks/week-04/results/

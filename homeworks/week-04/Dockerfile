@@ -4,6 +4,7 @@ WORKDIR /app
 
 COPY scoring_docker.py .
 
-RUN pip install pandas pyarrow scikit-learn==1.5.0
+RUN pipenv install --system --deploy
+# RUN pip install pandas pyarrow scikit-learn==1.5.0
 
 ENTRYPOINT ["python", "scoring_docker.py"]
